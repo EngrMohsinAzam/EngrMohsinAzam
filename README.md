@@ -35,11 +35,3 @@ Remote blockchain development positions DeFi protocol development projects Smart
 Feel free to reach out if you'd like to collaborate on blockchain projects, discuss DeFi innovations, or explore opportunities to build the decentralized future together! 🚀
 
 ⭐ If you find my work interesting, feel free to star my repositories!
-
-Alternative: Shorter Version
-
-👋 Blockchain Developer | DeFi Engineer | Web3 Builder Building the decentralized future, one smart contract at a time. 🚀 What I Do
-
-Smart Contracts: Solidity, Hardhat, Foundry, OpenZeppelin Multi-Chain: Ethereum, BSC, Polygon, Arbitrum, Base, XRPL Frontend: Next.js, React, TypeScript, Web3 Integration DeFi: Lending protocols, DEXs, Yield farming, Cross-chain bridges
-
-🛠️ Tech Stack Solidity JavaScript TypeScript Node.js Next.js React Hardhat Ethers.js Web3.js MongoDB Express
