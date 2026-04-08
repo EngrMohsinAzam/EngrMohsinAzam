@@ -1,37 +1,72 @@
 Hi there 👋
 
-I'm a blockchain developer with a passion for building decentralized applications and smart contract systems. With expertise in multi-chain DeFi protocols, NFT platforms, and Web3 infrastructure, I'm dedicated to creating secure, scalable, and innovative blockchain solutions that push the boundaries of decentralized technology. My Work
+I'm a Blockchain & Web3 Developer with 2+ years of hands-on experience building secure, scalable, and production-grade decentralized systems. I specialize in DeFi protocols, cross-chain infrastructure, tokenization systems, and smart contract engineering across multiple blockchain networks.
 
-Full-Stack Blockchain Developer: Currently specializing in building DeFi lending protocols, cross-chain bridges, and multi-network dApps with seamless user experiences. Smart Contract Engineer: Developing and deploying production-ready smart contracts across multiple EVM chains (Ethereum, BSC, Polygon, Arbitrum, and more). Web3 Integration Specialist: Creating intuitive frontends with Next.js, React, and modern Web3 libraries to bridge the gap between blockchain and users.
+I’m passionate about contributing to the growing blockchain ecosystem and delivering innovative solutions for fintech platforms, startups, and enterprise applications.
 
-Projects and Protocols I've worked with various blockchain projects and protocols, including:
+💼 What I Do
+🔗 Full-Stack Blockchain Developer
+Building end-to-end decentralized applications with seamless user experiences, from smart contracts to frontend integration.
 
-Multi-Chain DeFi Platforms - Lending/borrowing protocols (Compound/Aave-style) Cross-Chain Bridges - Custom bridge backends connecting EVM chains with XRPL Token Ecosystems - ERC-20 tokens with swap mechanisms and vault systems DEX Integrations - Automated market makers and liquidity pools Oracle Systems - Chainlink integration and price feed management
+📜 Smart Contract Engineer
+Designing and deploying secure, upgradeable smart contracts across EVM chains using Solidity and OpenZeppelin standards.
 
-More About Me
+🌐 Web3 Integration Specialist
+Integrating blockchain functionality into modern applications using React, Next.js, and Web3 tooling.
 
-🌱 I'm currently working as a Blockchain Developer and am proficient in DeFi, NFTs, Web3, Cross-chain solutions, Smart Contract development, and multiple blockchain networks. 💼 Specialized in: Solidity, Hardhat, Foundry, Ethers.js, Viem, Next.js, TypeScript, and various ERC standards (ERC-20, ERC-721, ERC-1155). 🔗 Multi-chain expertise: Ethereum, BSC, Polygon, Arbitrum, Optimism, Base, zkSync, Avalanche, and XRP Ledger. 🤝 I'm looking forward to collaborating on DeFi protocols, cross-chain bridges, NFT marketplaces, and innovative Web3 projects. 🔍 Open to: Remote blockchain development opportunities, smart contract projects, and Web3 consulting. ⚡ Fun fact: I ❤️ turning complex blockchain concepts into simple, elegant solutions ✨
+⚙️ Core Expertise
+Blockchain Networks: Ethereum, BSC, Polygon, XRPL, Tron
+Smart Contracts: Solidity, ERC-20, ERC-1155, Upgradeable Contracts
+DeFi Systems: Staking, Vaults, Tokenization, Oracles, Lending Models
+Cross-Chain Infrastructure: Bridges, Validators, Multi-sig Systems
+Web3 Stack: Hardhat, Ethers.js, OpenZeppelin, Wallet Integration
+Frontend: React.js, Next.js
+Backend: Golang
 
-Specialized Tools
+🧠 Key Projects
 
-Smart Contract Frameworks: Hardhat, Foundry, Truffle, Remix Web3 Libraries: Ethers.js, Viem, Wagmi, RainbowKit, XRPL.js Testing Tools: Chai, Mocha, Waffle, Foundry Tests Oracles: Chainlink, Band Protocol, Custom price feeds Security: OpenZeppelin, Slither, Mythril, Best practices auditing
+🔐 DigiPort KYC Platform
+Developed a blockchain-based identity verification system with:
+On-chain credential storage
+Role-based access control
+Compliance-ready workflows
 
-🏆 Recent Projects 🌉 Multi-Chain Bridge Custom backend service connecting BSC and XRPL networks with automated token bridging and transaction monitoring. Tech Stack: Node.js, Web3.js, XRPL.js, MongoDB, Express
+🌉 CryptoForexBridge (XRPL EVM Ecosystem)
+Architected a complete financial ecosystem including:
+Mintable token system (CFX)
+XRP ↔ CFX swap contracts
+Oracle-based pricing router
+Vault system with NAV-based logic
 
-Event listeners for both chains Automatic token transfers Transaction tracking API Production-ready deployment
+🔄 Multx Cross-Chain Protocol
+Built a cross-chain bridge featuring:
+2-of-3 multi-signature validation
+Relayer coordination
+Fault-tolerant settlement system
 
-💰 DeFi Lending Protocol Compound-style lending platform supporting multiple assets and chains. Tech Stack: Solidity, Hardhat, Next.js, Chainlink
+💰 Token Staking & ERC20 Systems
+Advanced ERC20 tokens (minting, pausing, blacklist, expiry)
+Secure staking and rewards mechanism
 
-Interest-bearing tokens (cToken style) Multi-chain deployment Dynamic interest rates Oracle price feeds
 
-🎨 Cross-Chain NFT Marketplace NFT marketplace with multi-chain support and seamless bridging. Tech Stack: Solidity (ERC-721), React, IPFS, The Graph
+🎓 Fundraising dApp
+Ethereum-based transparent fundraising platform with:
+Secure wallet authentication
+On-chain fund tracking
+🏭 Supply Chain & Voting Systems
+Tamper-proof supply chain tracking
+Smart contract-based voting with transparency
 
-Lazy minting Royalty system Cross-chain transfers Subgraph indexing
+🌱 About Me
+💼 2+ years experience in Blockchain & Web3 development
+🔗 Strong focus on DeFi, cross-chain, and fintech solutions
+🤝 Worked with local & international clients
+📍 Based in Lahore (Open to remote & relocation)
+⚡ I enjoy turning complex blockchain systems into simple, elegant solutions
 
-💼 Open for Opportunities I'm actively seeking:
-
-Remote blockchain development positions DeFi protocol development projects Smart contract development & auditing Web3 consulting opportunities Open-source collaborations
-
-Feel free to reach out if you'd like to collaborate on blockchain projects, discuss DeFi innovations, or explore opportunities to build the decentralized future together! 🚀
-
-⭐ If you find my work interesting, feel free to star my repositories!
+🚀 Open to Opportunities
+Remote blockchain developer roles
+DeFi & protocol development projects
+Smart contract development & auditing
+Web3 consulting & architecture
+Open-source collaborations
