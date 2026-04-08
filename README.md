@@ -1,77 +1,129 @@
-Hi there 👋
+# 👋 Hi, I'm Mohsin Azam
 
-I'm a Blockchain & Web3 Developer with 2+ years of hands-on experience building secure, scalable, and production-grade decentralized systems. I specialize in DeFi protocols, cross-chain infrastructure, tokenization systems, and smart contract engineering across multiple blockchain networks.
+🚀 **Blockchain & Web3 Developer | DeFi | Cross-Chain | Smart Contracts**
 
-I’m passionate about contributing to the growing blockchain ecosystem and delivering innovative solutions for fintech platforms, startups, and enterprise applications.
+I'm a passionate **Blockchain Developer with 2+ years of experience** building secure, scalable, and production-grade decentralized applications. I specialize in **DeFi protocols, cross-chain systems, tokenization, and smart contract engineering** across multiple blockchain networks.
 
-💼 What I Do
-🔗 Full-Stack Blockchain Developer
+💡 I love turning complex blockchain systems into simple, elegant solutions.
 
-Building end-to-end decentralized applications with seamless user experiences, from smart contracts to frontend integration.
+---
 
-📜 Smart Contract Engineer
+## 🧠 About Me
 
-Designing and deploying secure, upgradeable smart contracts across EVM chains using Solidity and OpenZeppelin standards.
+* 🔗 Blockchain & Web3 Developer with real-world project experience
+* 💼 Worked with **local & international clients**
+* 🌍 Based in **Lahore, Pakistan** (Open to remote & relocation)
+* 🚀 Focused on **DeFi, Cross-Chain Infrastructure & Fintech Solutions**
+* 🤝 Open to collaborations and innovative Web3 projects
 
-🌐 Web3 Integration Specialist
+---
 
-Integrating blockchain functionality into modern applications using React, Next.js, and Web3 tooling.
+## ⚙️ Tech Stack
 
-⚙️ Core Expertise
-Blockchain Networks: Ethereum, BSC, Polygon, XRPL, Tron
-Smart Contracts: Solidity, ERC-20, ERC-1155, Upgradeable Contracts
-DeFi Systems: Staking, Vaults, Tokenization, Oracles, Lending Models
-Cross-Chain Infrastructure: Bridges, Validators, Multi-sig Systems
-Web3 Stack: Hardhat, Ethers.js, OpenZeppelin, Wallet Integration
-Frontend: React.js, Next.js
-Backend: Golang
-🧠 Key Projects
-🔐 DigiPort KYC Platform
+### 🔗 Blockchain
 
-Developed a blockchain-based identity verification system with:
+* Ethereum, BSC, Polygon, XRPL, Tron
 
-On-chain credential storage
-Role-based access control
-Compliance-ready workflows
-🌉 CryptoForexBridge (XRPL EVM Ecosystem)
+### 📜 Smart Contracts
 
-Architected a complete financial ecosystem including:
+* Solidity, ERC-20, ERC-1155, Upgradeable Contracts
 
-Mintable token system (CFX)
-XRP ↔ CFX swap contracts
-Oracle-based pricing router
-Vault system with NAV-based logic
-🔄 Multx Cross-Chain Protocol
+### 🏦 DeFi & Infrastructure
 
-Built a cross-chain bridge featuring:
+* Tokenization, Staking, Vaults, Oracles, Cross-Chain Bridges
 
-2-of-3 multi-signature validation
-Relayer coordination
-Fault-tolerant settlement system
-💰 Token Staking & ERC20 Systems
-Advanced ERC20 tokens (minting, pausing, blacklist, expiry)
-Secure staking and rewards mechanism
-🎓 Fundraising dApp
+### 🧰 Tools & Libraries
 
-Ethereum-based transparent fundraising platform with:
+* Hardhat, Ethers.js, OpenZeppelin, Wallet Integration
 
-Secure wallet authentication
-On-chain fund tracking
-🏭 Supply Chain & Voting Systems
-Tamper-proof supply chain tracking
-Smart contract-based voting with transparency
-🌱 About Me
-💼 2+ years experience in Blockchain & Web3 development
-🔗 Strong focus on DeFi, cross-chain, and fintech solutions
-🤝 Worked with local & international clients
-📍 Based in Lahore (Open to remote & relocation)
-⚡ I enjoy turning complex blockchain systems into simple, elegant solutions
-🚀 Open to Opportunities
+### 🌐 Frontend
 
-I’m currently open to:
+* React.js, Next.js
 
-Remote blockchain developer roles
-DeFi & protocol development projects
-Smart contract development & auditing
-Web3 consulting & architecture
-Open-source collaborations
+### ⚙️ Backend
+
+* Golang
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 DigiPort KYC Platform
+
+Blockchain-based identity verification system with:
+
+* On-chain credential storage
+* Role-based access control
+* Compliance-ready workflows
+
+---
+
+### 🌉 CryptoForexBridge (XRPL EVM Ecosystem)
+
+* XRP ↔ CFX swap contracts
+* Oracle-based pricing system
+* Vault architecture with NAV logic
+* Mintable token ecosystem
+
+---
+
+### 🔄 Multx Cross-Chain Protocol
+
+* Cross-chain bridge with validators
+* 2-of-3 multi-signature consensus
+* Relayer coordination
+* Secure transaction verification
+
+---
+
+### 💰 Token Staking & ERC20 Systems
+
+* Advanced ERC20 tokens (minting, pausing, blacklist, expiry)
+* Secure staking & reward mechanisms
+
+---
+
+### 🎓 Fundraising dApp
+
+* Transparent Ethereum-based fundraising platform
+* Secure wallet authentication
+* On-chain fund tracking
+
+---
+
+### 🏭 Supply Chain & Voting Systems
+
+* Tamper-proof supply chain tracking
+* Decentralized voting system
+
+---
+
+## 🧰 Specialized Tools
+
+* **Frameworks:** Hardhat, Foundry, Truffle, Remix
+* **Web3 Libraries:** Ethers.js, Viem, Wagmi, RainbowKit, XRPL.js
+* **Testing:** Chai, Mocha, Waffle, Foundry Tests
+* **Oracles:** Chainlink, Band Protocol
+* **Security:** OpenZeppelin, Slither, Mythril
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [azammohsin816@gmail.com](mailto:azammohsin816@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/mohsin-azam-b745a5292
+* 💻 GitHub: https://github.com/EngrMohsinAzam
+
+---
+
+## 💼 Open for Opportunities
+
+* Remote Blockchain Developer Roles
+* DeFi & Protocol Development
+* Smart Contract Development & Auditing
+* Web3 Consulting
+* Open Source Collaboration
+
+---
+
+⭐ *If you find my work interesting, feel free to star my repositories!*
